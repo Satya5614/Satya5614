@@ -4,7 +4,7 @@ I'm a seasoned mobile app developer with a passion for crafting engaging and eff
 
 ## 🛠 Technologies & Tools
 
-- **Frontend:** React, React Native, Next.JS, Expo
+- **Frontend:** React, React Native, NextJs, Expo
 - **Languages:** TypeScript, Javascript
 - **Backend:** NodeJs, Firebase
 - **Tools:** LLMs for enhancing development productivity
